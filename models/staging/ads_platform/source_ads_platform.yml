@@ -1,0 +1,7 @@
+sources:
+  - name: ads_platform
+    schema: bingeflix
+    database: raw
+    tables:
+      - name: daily_ads
+        identifier: ads
